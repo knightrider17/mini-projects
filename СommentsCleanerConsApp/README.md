@@ -1,3 +1,3 @@
-#Info
+# Info
+info
 
-InfoText
