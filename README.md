@@ -2,6 +2,9 @@
 
 ## Проекты с небольшим функционалом, из задач со студенческих курсов, или коммерческих проектов, которые нельзя показывать целиком
 
+### 0. Базовые вещи и азы
+* [Базовые темы (C++)](https://github.com/knightrider17/mini-projects/tree/master/AllCppBaisics-6MainThings)
+
 ### 1. Счётчик выстевленных бит в массиве
 * [Bit Counter (C++)](https://github.com/knightrider17/mini-projects/tree/master/BitCounterConsApp)
 ### 2. Чистильщик комментариев
