@@ -61,6 +61,8 @@
 1. Многопоточность. Подробнее об объектах синхронизации
 2. Прочее
 
+# ПРОЕКТЫ
+
 ### 1. Счётчик выстевленных бит в массиве
 * [Bit Counter (C++)](https://github.com/knightrider17/mini-projects/tree/master/BitCounterConsApp)
 ### 2. Чистильщик комментариев
@@ -68,5 +70,16 @@
 ### 3. Вычленение невалидных диапазонов адресов после их устаревания 
 * [Old Pools Detection (C++)](https://github.com/knightrider17/PoolsTestConsApp)
 
+### 4. Редактор XML-фалов заданного формата
+* [MFC Xml-Parser (C++)](https://github.com/knightrider17/MFCXmlParser)
+
+### 5. Игра написанная на Qt
+* [Mini-Game using Qt (C++)](https://github.com/knightrider17/QtGame)
+
+### 6. Демо-Проект GUI для декстоп приложения на Qml 
+* [QML GUI Demo-Project (C++)](https://github.com/knightrider17/QML-Project)
+
+### 7. Тестовая задача для ознакомления с WinAPI 
+* [Task to learn WinAPI (C++)](https://github.com/knightrider17/WinAPI-Project)
 
 
