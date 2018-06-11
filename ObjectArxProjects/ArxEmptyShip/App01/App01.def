@@ -1,0 +1,4 @@
+; LIBRARY "App01.arx"
+EXPORTS     
+  acrxEntryPoint		PRIVATE
+  acrxGetApiVersion	PRIVATE
