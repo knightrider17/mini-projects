@@ -1,4 +1,4 @@
-# Настройка проекта ObjectARX из пустого проекта в MSVS 2015 для AutoCAD 2017
+# Настройка проекта ObjectARX из пустого проекта в        MSVS 2015 для AutoCAD 2017
 
 Среды: MSVS 2015. Autocad 2017. Platform x64.
 
