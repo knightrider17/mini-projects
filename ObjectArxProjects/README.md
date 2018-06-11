@@ -73,12 +73,12 @@ C:\Autodesk\Autodesk_ObjectARX_2017_Win_64_and_32_Bit\lib-$(Platform);
 Configuration Properties -> C/C++ -> General
 
 Additional Include Directories добавляем
-C:\Autodesk\Autodesk_ObjectARX_2018_Win_64_and_32_Bit\inc;C:\Autodesk\Autodesk_ObjectARX_2018_Win_64_and_32_Bit\inc-x64;%(AdditionalIncludeDirectories)
+C:\Autodesk\Autodesk_ObjectARX_2017_Win_64_and_32_Bit\inc;C:\Autodesk\Autodesk_ObjectARX_2017_Win_64_and_32_Bit\inc-x64;%(AdditionalIncludeDirectories)
 
 Configuration Properties -> Linker -> General
 
 Additional Library Directories добавляем
-C:\Autodesk\Autodesk_ObjectARX_2018_Win_64_and_32_Bit\lib-x64;%(AdditionalLibraryDirectories)
+C:\Autodesk\Autodesk_ObjectARX_2017_Win_64_and_32_Bit\lib-x64;%(AdditionalLibraryDirectories)
 ```
 
 6. Далее в Configuration Properties -> C/C++ -> General
